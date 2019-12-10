@@ -1,7 +1,7 @@
 
 # Github优秀资源中文索引
-``该项目翻译自Awesome,目的是为了提升查阅文档效率。如果能够给到大家帮助，欢迎不吝star。如果有任何问题或者建议也欢迎反馈。
-``[原文链接](https://github.com/sindresorhus/awesome)
+##该项目翻译自***Awesome***,目的是为了提升查阅文档效率。如果能够给到大家帮助，欢迎不吝star。如果有任何问题或者建议也欢迎反馈。
+[原文链接](https://github.com/sindresorhus/awesome)
 ## Contents
 
 - [平台](#平台)
