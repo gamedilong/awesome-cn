@@ -2,7 +2,7 @@
 # Github优秀资源中文索引
 该项目翻译自***Awesome***,目的是为了提升查阅文档效率。如果能够给到大家帮助，欢迎不吝star。如果有任何问题或者建议也欢迎反馈。
 [原文链接](https://github.com/sindresorhus/awesome)
-## Contents
+## 目录
 
 - [平台](#平台)
 - [编程语言](#编程语言)
@@ -15,14 +15,14 @@
 - [编辑器](#编辑器)
 - [游戏](#游戏)
 - [开发环境](#开发环境)
-- [娱乐相关](#娱乐相关)
+- [娱乐](#娱乐)
 - [数据库](#数据库)
 - [多媒体](#多媒体)
 - [学习](#学习)
 - [安全](#安全)
-- [CMS内容发布系统](#CMS内容发布系统)
+- [内容管理系统](#内容管理系统)
 - [硬件](#硬件)
-- [商业相关](#商业相关)
+- [商业](#商业)
 - [工作](#工作)
 - [网络](#网络)
 - [分散式系统](#分散式系统)
@@ -385,7 +385,7 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 
 
-## 娱乐相关
+## 娱乐
 
 - [科幻小说](https://github.com/sindresorhus/awesome-scifi#readme).
 - [幻想小说](https://github.com/RichardLitt/awesome-fantasy#readme)
@@ -461,7 +461,7 @@
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - 欧盟内所有个人的数据保护和隐私法规
 
 
-## CMS内容发布系统
+## 内容管理系统
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme) - Umbraco CMS相关项目集。
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - 基于Ruby on Rails的CMS。
@@ -480,7 +480,7 @@
 - [电吉他](https://github.com/gitfrage/guitarspecs#readme) - 电吉他相关精选资源。
 
 
-## 商业相关
+## 商业
 
 - [开放公司](https://github.com/opencompany/awesome-open-company#readme)
 - [可发布应用的网站集合](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
