@@ -36,7 +36,7 @@
 
 ## 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于Chrome V8 JavaScript引擎的异步非阻塞事件驱动JavaScript运行时Nodejs。
+- [Node.js](https://github.com/gamedilong/awesome-nodejs-cn#readme) - 基于Chrome V8 JavaScript引擎的异步非阻塞事件驱动JavaScript运行时Nodejs。
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 基于Nodejs的跨平台资源。
 - [前端](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - 苹果手机和平板电脑的移动操作系统。
