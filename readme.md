@@ -2,6 +2,10 @@
 # Github优秀资源中文索引
 该项目翻译自***Awesome***,目的是为了提升查阅文档效率。如果能够给到大家帮助，欢迎不吝star。如果有任何问题或者建议也欢迎反馈。
 [原文链接](https://github.com/sindresorhus/awesome)
+
+## 优质中文内容
+- [软件架构师之路](https://github.com/gamedilong/SoftwareArchitect-CN)
+- [Nodejs中文优质资源索引集](https://github.com/gamedilong/awesome-nodejs-cn#readme)
 ## 目录
 
 - [平台](#平台)
